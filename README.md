@@ -1,1 +1,3 @@
 My first readme
+Welcome to my alx school project...
+Enjoying the school already... Have a nice day
